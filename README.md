@@ -86,6 +86,7 @@ To run this project locally, follow these steps:
 <p align="center">
   <img src="https://imgur.com/X4zHSNG.png" alt="Screenshot 1" width="400"/>
 </p>
+
 ---
 
 ### 🚀 Contributing
