@@ -14,7 +14,7 @@
   <img src="https://camo.githubusercontent.com/f0d1d4ef8153263218f960319e84981305e6458ae8ce87e1637311eec40f8a72/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861475a6f633370774d7a646a5a6d7477656e7032596d4e725a5868754d6d4e364e7a5a6c596d357062323968636a55345954567a61695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6247677363356d576f727966674b427831752f67697068792e676966" alt="Futuristic Task Manager Demo" width="300" height="300"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&duration=4000&pause=500&color=4dd0e1&center=true&vCenter=true&width=600&lines=Organize+Your+Future+Tasks;Sleek+and+Efficient+Task+Management;Built+with+React+and+Tailwind+CSS" alt="Typing animation" />
